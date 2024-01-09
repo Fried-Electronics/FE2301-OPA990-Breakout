@@ -1,0 +1,80 @@
+** Drc report for C:\Users\tomfr\Documents\GitHub\FE2301-OPA990-Breakout\KiCad\OPA990 Breakout.kicad_pcb **
+** Created on 2024-01-09 19:27:04 **
+
+** Found 20 DRC violations **
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(141.9860 mm, 96.5200 mm): Footprint kibuzzard-659D9D77
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(139.7000 mm, 100.9650 mm): Footprint kibuzzard-659D9D68
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(139.7000 mm, 91.9480 mm): Footprint kibuzzard-659D9D4E
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(155.0670 mm, 97.9170 mm): Footprint kibuzzard-659D9D38
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(157.4800 mm, 100.9650 mm): Footprint kibuzzard-659D9D29
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(157.4800 mm, 92.0750 mm): Footprint kibuzzard-659D9D0E
+[lib_footprint_mismatch]: Footprint 'SOT-23-3' does not match copy in library 'Package_TO_SOT_SMD'.
+    Local override; Severity: warning
+    @(153.0350 mm, 93.9800 mm): Footprint D1
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(145.6690 mm, 95.8850 mm): Footprint kibuzzard-659D8E71
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(145.7960 mm, 93.3450 mm): Footprint kibuzzard-659D8DDF
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(145.6690 mm, 94.6150 mm): Footprint kibuzzard-659D8E62
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(146.4310 mm, 92.0750 mm): Footprint kibuzzard-659D8E26
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-0.4826 mm, -1.2700 mm): Polygon on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(144.0180 mm, 100.7110 mm): Circle on B.Silkscreen
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(143.5100 mm, 98.4250 mm): Circle on B.Mask
+    @(-1.0160 mm, 1.0160 mm): Polygon on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.9050 mm, 1.2700 mm): Polygon on B.Mask
+    @(-1.0160 mm, 1.0160 mm): Polygon on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.9050 mm, 1.2700 mm): Polygon on B.Mask
+    @(-1.0160 mm, 1.0160 mm): Polygon on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.9050 mm, 1.2700 mm): Polygon on B.Mask
+    @(-1.0160 mm, 1.0160 mm): Polygon on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(146.0500 mm, 98.4250 mm): Circle on B.Mask
+    @(-1.0160 mm, 1.0160 mm): Polygon on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(146.0500 mm, 100.9650 mm): Circle on B.Mask
+    @(-1.0160 mm, 1.0160 mm): Polygon on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.9050 mm, 1.2700 mm): Polygon on B.Mask
+    @(-1.0160 mm, 1.0160 mm): Polygon on B.Cu
+
+** Found 0 unconnected pads **
+
+** Found 1 Footprint errors **
+[extra_footprint]: Extra footprint
+    Local override; Severity: warning
+    @(144.7800 mm, 99.6950 mm): Footprint REF**
+
+** End of Report **
