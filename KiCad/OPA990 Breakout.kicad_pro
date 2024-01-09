@@ -455,7 +455,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "OPA990 Breakout.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
